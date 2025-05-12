@@ -56,7 +56,6 @@ jupyter notebook Terrain_Recognition.ipynb
 🧠 Features
 
 ```
-
 Terrain classification using deep learning
 
 Interactive development in Jupyter Notebook
@@ -69,7 +68,6 @@ Supports model saving and loading
 🛠 Requirements
 
 ```
-
 Python 3.11+
 
 uv (optional but recommended)
